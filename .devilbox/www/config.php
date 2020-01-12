@@ -1,4 +1,7 @@
 <?PHP
+
+putenv("PHP_IDE_CONFIG=serverName=devilbox");
+
 // Measure time
 $TIME_START = microtime(true);
 
